@@ -9,6 +9,7 @@ author: |
 geometry: margin=1in
 urlcolor: cyan
 ---
+Alan Lopez
 
 In this assignment, we begin to construct a natural language query system. We will create a program that will participate in dialogs like the following.
 
