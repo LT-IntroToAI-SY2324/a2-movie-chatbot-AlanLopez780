@@ -25,8 +25,7 @@ def match(pattern: List[str], source: List[str]) -> List[str]:
         # your job is to fill out the body of this loop
 
         # you should delete the following line
-        return ["Not done yet :)"]
-
+        
         # 1) if we reached the end of the pattern but not source
 
         # 2) if the current thing in the pattern is a %
@@ -44,6 +43,11 @@ def match(pattern: List[str], source: List[str]) -> List[str]:
         # 6) else : this will happen if none of the other conditions are met it
         # indicates the current thing it pattern doesn't match the current thing in
         # source
+
+        if pattern[pind] == source[pind]:
+            
+        else:
+
 
     return result
 
